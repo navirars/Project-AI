@@ -32,6 +32,3 @@ Artificial Neural Networ (ANN) adalah atau jaringan syaraf tiruan adalah jaringa
 
 ## Image Classification with CNN
 Convolutional Neural NetworkFile (CNN) adalah salah satu jenis neural network yang biasa digunakan pada data image. CNN bisa digunakan untuk mendeteksi dan mengenali object pada sebuah image.
-
-### TUGAS DEPLOY
-#project-AI perupakan gabungan tugas deploy dan tugas sebelumnya. Tetapi untuk tugas sebelumnya tetap berada pada repository bernama Project-AI-pertama
